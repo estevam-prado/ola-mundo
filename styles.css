@@ -1,4 +1,4 @@
-html,busy {
+html,busy{
   margin: 0;
   padding: 0;
 }
@@ -10,6 +10,6 @@ html,busy {
   align-items: center;
   justify-content: center;
 }
-.msg {
+.msg{
   fontsize: 64px;
 }
