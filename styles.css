@@ -1,6 +1,6 @@
 html,busy{
-  margin: 0;
-  padding: 0;
+  margin:0;
+  padding:0;
 }
 .center{
   width: 100%;
@@ -11,5 +11,5 @@ html,busy{
   justify-content: center;
 }
 .msg{
-  fontsize: 64px;
+  fontsize:64px;
 }
